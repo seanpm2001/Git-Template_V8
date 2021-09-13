@@ -1,11 +1,12 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
+#snapcraft specifics
+/parts/
+/stage/
+/prime/
+
+*.snap
+
+.snapcraft
+__pycache__
+*.pyc
+*_source.tar.bz2
+snap/.snapcraft
