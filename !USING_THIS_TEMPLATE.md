@@ -51,4 +51,6 @@ Here is a guide to the 11 template branches:
 
 `Template-DeGoogle` - This is my template for my DeGoogle article project series.
 
+`Template-Other` - This is my template for my other projects that don't fall under the other categories.
+
 ***
