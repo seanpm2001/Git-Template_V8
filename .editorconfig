@@ -1,6 +1,6 @@
 # Start of script
 
-# Editor configuration file for Seanpm2001/SNU 2D Programming Tools IDE project (V6)
+# Editor configuration file for this DeGoogle article project
 
 root = true
 
@@ -13,7 +13,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
-[*.md]
+[*.md *.mkd *.markdown]
 indent_style = space
 indent_size = 2
 end_of_line = lf
@@ -40,7 +40,7 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
-[*.mk]
+[*.htm *.html *.xhtm *.xhtml *.mhtm *.mhtml]
 indent_style = space
 indent_size = 2
 end_of_line = lf
@@ -49,7 +49,16 @@ trim_trailing_whitespace = false
 insert_final_newline = false
 line_wrap_mode = soft wrap
 
-[*.htm *.html]
+[*.svg]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.mk]
 indent_style = space
 indent_size = 2
 end_of_line = lf
@@ -61,7 +70,7 @@ line_wrap_mode = soft wrap
 # File info
 
 # File type: Editorconfig file (*.editorconfig)
-# File version: 1 (Monday, 2021 August 23rd at 6:19 pm)
-# Line count (including blank lines and compiler line): 68
+# File version: 1 (Sunday, 2021 September 12th at 7:01 pm)
+# Line count (including blank lines and compiler line): 77
 
 # End of script
