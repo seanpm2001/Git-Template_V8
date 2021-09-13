@@ -1,11 +1,13 @@
 
 ***
 
-# Using this template
+# Git-Template (Version 8) by [@Seanpm2001](https://github.com/seanpm2001/)
+
+## Using this template
 
 Starting with version 8 of my series of templates, all the templates have been combined into one via Git branches.
 
-# WARNING
+# ⚠️ WARNING ⚠️
 
 Before you complete forking this project, please make sure you have followed the following instructions, or this template will be of no use to you.
 
@@ -21,7 +23,7 @@ Scroll down to the bottom and find this checkbox.
 
 ![/Setup/Graphics/Include-Branches_Checked.png](/Setup/Graphics/Include-Branches_Checked.png)
 
-Check the box (this will fork all the branches required to use this set of templates.
+Check the box (this will fork all the branches required to use this set of templates)
 
 ## How to use this template
 
@@ -93,15 +95,17 @@ Here is a guide to the 11 template branches:
 
 - [ ] Fix typos
 
+- [ ] Add support for the Pull Request (PR) directory
+
 - - [ ] I have done the following steps for all branches
 
 `main` branch
 
-- [ ] Make the branch list in the `!USING_THIS_TEMPLATE` instruction file into a functional link lisrt.
+- [ ] Make the branch list in the `!USING_THIS_TEMPLATE` instruction file into a functional link list.
 
 - [ ]  Archive all 11 branches into the main branch
 
-- [ ]  Archive all 11 pull requests
+- [x]  Archive all 11 pull requests
 
 - [ ] Update README
 
@@ -115,10 +119,72 @@ As of 2021 Monday, September 13th at 2:31 pm
 
 ## File info
 
-**File version:** `1 (2021 Monday, September 13th at 3:45 pm)`
+**File version:** `2 (2021 Monday, September 13th at 4:28 pm)`
 
-**File type:** `Markdown document (*.md)`
+**File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**Line count (including blank lines and compiler line):** `125`
+**Line count (including blank lines and compiler line):** `191`
+
+***
+
+## File history
+
+**Version 1 (Monday, 2021 September 13th at 3:45 pm)**
+
+> Changes:
+
+> * Started the file
+
+> * Added instructions for setup
+
+> * Added the todo list
+
+> * Added the file info section
+
+> * No other changes in version 1
+
+**Version 2 (Monday, 2021 September 13th at 4:28 pm)**
+
+> Changes:
+
+> * Updated the title
+
+> * Updated the instructions
+
+> * Updated the todo list
+
+> * Updated the file info section
+
+> * Added the file history section
+
+> * Added the footer section
+
+> * No other changes in version 2
+
+**Version 3 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 3
+
+**Version 4 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
+
+***
+
+## Footer
+
+You have reached the end of this file.
+
+(  [Back to top](#Using-this-template) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
+
+### EOF
 
 ***
