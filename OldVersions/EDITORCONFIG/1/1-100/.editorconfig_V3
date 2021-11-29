@@ -1,0 +1,46 @@
+[*.mustache]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Handlebars source file
+[*.handlebars *.hbs]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Git configuration files
+[*.gitignore *.gitattributes *.editorconfig]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Binary image files
+[*.png *.pns *.jpg *.jpeg *.jfif *.jif *.jp2 *.gif *.tif *.tiff *.bmp *.dib]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# File info
+
+# File type: Editorconfig file (*.editorconfig)
+# File version: 3 (Monday, 2021 November 29th at 3:27 pm)
+# Line count (including blank lines and compiler line) 215
+
+# End of script
