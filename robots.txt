@@ -1,0 +1,14 @@
+---
+layout: null
+sitemap: false
+---
+User-agent: * --- Allows all user agents ---
+Sitemap: {{ site.url }}/sitemap.xml --- Points to a sitemap ---
+Allow: * --- Allows access to all files ---
+Disallow: /N/o/n/e/None/NON-EXISTANT_FILE.glsl?php=VirusTotal.go.dart.virus.exe{PARAM:THIS_FILE_DOES_NOT_EXIST_AND_WILL_NEVER_EXIST};;;;UTF-0.gov.404.example.com
+--- Editors note: Geez, Talk about overkill, Sean - @seanpm2001 ---
+--- File info ---
+--- File type: Robots.txt text file (robots.txt) ---
+--- File version: 1 (2022, Monday, January 3rd at 10:19 pm) ---
+--- Line count (including blank lines and compiler line): 15 ---
+--- Heavily modified from DuckDuckGo-Help-Pages's robots.txt file, which served as inspiration for renewing this file due to recognizable syntax highlighting ---
