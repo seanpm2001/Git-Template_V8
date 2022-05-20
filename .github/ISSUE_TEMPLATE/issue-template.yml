@@ -52,7 +52,13 @@ body:
   - type: textarea
     attributes:
       label: Expected Results
-      description: What you expected to happen, example: no error is thrown
+      description: What you expected to happen, example - no error is thrown
+      placeholder: |
+        1. [First Step]
+        2. [Second Step]
+        3. [and so on...]
+      validations:
+      required: true
 
   - type: textarea
     attributes:
@@ -188,7 +194,7 @@ body:
           required: false
 
 # Issue template info
-# 2B (2022, Thursday, May 19th at 6:52 pm PST)
+# 3B (2022, Thursday, May 19th at 6:54 pm PST)
 # File type: YAML document (*.yml *.yaml)
-# Line  count (including blank lines and compiler line): 195
+# Line  count (including blank lines and compiler line): 201
 # File purpose: Serving as a modern issue template for this project.
