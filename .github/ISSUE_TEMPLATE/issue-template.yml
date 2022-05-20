@@ -128,7 +128,7 @@ body:
         label: Other
         required: false
         validations:
-        	required: true
+          required: true
 
   - type: input
     attributes:
@@ -194,7 +194,7 @@ body:
           required: false
 
 # Issue template info
-# 3B (2022, Thursday, May 19th at 6:54 pm PST)
+# 4B (2022, Thursday, May 19th at 6:56 pm PST)
 # File type: YAML document (*.yml *.yaml)
 # Line  count (including blank lines and compiler line): 201
 # File purpose: Serving as a modern issue template for this project.
