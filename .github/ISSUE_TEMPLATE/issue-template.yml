@@ -53,8 +53,6 @@ body:
     attributes:
       label: Expected Results
       description: What you expected to happen, example: no error is thrown
-    validations:
-      required: true
 
   - type: textarea
     attributes:
@@ -190,7 +188,7 @@ body:
           required: false
 
 # Issue template info
-# 1B (2022, Thursday, May 19th at 6:50 pm PST)
+# 2B (2022, Thursday, May 19th at 6:52 pm PST)
 # File type: YAML document (*.yml *.yaml)
-# Line  count (including blank lines and compiler line): 197
+# Line  count (including blank lines and compiler line): 195
 # File purpose: Serving as a modern issue template for this project.
