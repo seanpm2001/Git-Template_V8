@@ -132,7 +132,7 @@ body:
 
   - type: input
     attributes:
-      label: Specify the specific browser version down to the last number (example: Firefox 88.0.1esr) and specify if you are running on a desktop or mobile device.
+      label: Specify the specific browser version down to the last number (example Firefox 88.0.1esr)
     validations:
       required: true
 
@@ -194,7 +194,7 @@ body:
           required: false
 
 # Issue template info
-# 4B (2022, Thursday, May 19th at 6:56 pm PST)
+# 5B (2022, Thursday, May 19th at 6:58 pm PST)
 # File type: YAML document (*.yml *.yaml)
 # Line  count (including blank lines and compiler line): 201
 # File purpose: Serving as a modern issue template for this project.
