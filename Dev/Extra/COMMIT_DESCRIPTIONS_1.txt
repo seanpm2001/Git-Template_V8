@@ -1,0 +1,23 @@
+Batch 1 - 6 sub-directories [96 files]
+
+The first batch of files [out of 2] for this directory, containing 96 IGNORE.md files.
+
+Batch 2 - 1 sub-directory [31 files] [final batch]
+
+The second [and final] batch of files [out of 2] for this directory, containing 31 IGNORE.md files
+
+Batch 1 - 6 sub-directories [93 files]
+
+The first batch of files [out of 2] for this directory, containing 93 IGNORE.md files.
+
+Batch 2 - 1 sub-directory [30 files] [final batch]
+
+The second [and final] batch of files [out of 2] for this directory, containing 30 IGNORE.md files.
+
+Batch 1 - 6 sub-directories [90 files]
+
+The first batch of files [out of 2] for this directory, containing 90 IGNORE.md files.
+
+Batch 2 - 1 sub-directory [29 files] [final batch]
+
+The second [and final] batch of files [out of 2] for this directory, containing 29 IGNORE.md files.
