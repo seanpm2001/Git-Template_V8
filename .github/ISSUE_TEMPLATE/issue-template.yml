@@ -175,7 +175,7 @@ body:
     attributes:
       label: Version used
       placeholder: |
-      	What version are you using? (supported versions only)
+        What version are you using? (supported versions only)
     validations:
       required: true
 
@@ -194,7 +194,7 @@ body:
           required: false
 
 # Issue template info
-# 5B (2022, Thursday, May 19th at 6:58 pm PST)
+# 6B (2022, Thursday, May 19th at 6:59 pm PST)
 # File type: YAML document (*.yml *.yaml)
 # Line  count (including blank lines and compiler line): 201
 # File purpose: Serving as a modern issue template for this project.
