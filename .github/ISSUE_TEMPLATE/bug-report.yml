@@ -31,7 +31,7 @@ body:
         - label: I did not modify the project
           required: false
           
-  - type: radio
+  - type: checkboxes
     attributes:
       label: My issue involves...
       options:
@@ -518,5 +518,5 @@ body:
 
 # File info
 # File type: GitHub bug report issue template (*.yml)
-# File version: 1 (2022, Thursday, May 19th at 3:12 pm PST)
+# File version: 2 (2022, Sunday, May 22nd at 6:28 pm PST)
 # Line count (including blank lines and compiler line): 523
