@@ -26,6 +26,8 @@ Reset to branch 0.
 - [`Template-Meadows`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Meadows/)
 - [`Template-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Other/)
 - [`Template-Snapcraft`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Snapcraft/)
+- [`Template-Seanpm2001-WorldDB-ImageVariant`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Seanpm2001-WorldDB-ImageVariant/)
+- [`Template-Seanpm2001-WorldDB-StandardVariant`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Seanpm2001-WorldDB-StandardVariant/)
 - [`Template-SPM2001-Map`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-SPM2001-Map/)
 - [`Template-SPM2001-Journaling-TW-ELM-V1`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-SPM2001-Journaling-TW-ELM-V1/)
 - [`Template-SPM2001-Journaling`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-SPM2001-Journaling/)
@@ -41,10 +43,8 @@ Reset to branch 0.
 
 ## File info
 
-**File version:** `3 (2023, Wednesday, May 3rd at 7:00 pm PST)`
-
-**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-
-**Line count (including blank lines and compiler line):** `51`
+- **File version:** `4 (2024, Sunday, August 18th at 02:43 pm PST)`
+- **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+- **Line count (including blank lines and compiler line):** `51`
 
 ***
