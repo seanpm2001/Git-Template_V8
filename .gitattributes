@@ -31,6 +31,10 @@
 # CSS (Cascade Styling Sheets) stylesheet file
 *.css linguist-detectable=true
 *.css linguist-documentation=false
+# AutoIt 3.x source file
+*.au3 linguist-detectable=true
+*.au3 linguist-documentation=false
+*.au3 linguist-language=AutoIt
 *.css linguist-language=CSS
 # Less stylesheet file
 *.less linguist-detectable=true
@@ -161,10 +165,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Wednesday, August 21st at 02:51 pm PST)
+# Line count (including blank lines and compiler line): 178
+
 # End of script
