@@ -32,6 +32,25 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Ruby source file
+*.rb linguist-detectable=true
+*.rb linguist-documentation=false
+*.rb linguist-language=Ruby
+*.rbx linguist-detectable=true
+*.rbx linguist-documentation=false
+*.gem linguist-detectable=true
+*.gem linguist-documentation=false
+*.gem linguist-language=Ruby
+*.gemspec linguist-detectable=true
+*.gemspec linguist-documentation=false
+*.gemspec linguist-language=Ruby
+*.rake linguist-detectable=true
+*.rake linguist-documentation=false
+*.rake linguist-language=Ruby
+*.ruby linguist-detectable=true
+*.ruby linguist-documentation=false
+*.ruby linguist-language=Ruby
+*.rbx linguist-language=Ruby
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +180,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Wednesday, August 21st at 02:39 pm PST)
+# Line count (including blank lines and compiler line): 193
+
 # End of script
