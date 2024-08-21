@@ -1,7 +1,7 @@
 
 ***
 
-# Branches
+# Branches (50)
 
 Jump on over to another branch of this repository.
 
@@ -11,11 +11,11 @@ Reset to branch 0.
 
 > [`$NOTREE`](https://github.com/seanpm2001/Git-Template_V8/)
 
-## Default
+## Default (1)
 
 > [`main`](https://github.com/seanpm2001/Git-Template_V8/tree/main/)
 
-## Others
+## Others (49)
 
 - [`Template-AI2001`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AI2001/)
 - [`Template-Candroid`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Candroid/)
@@ -38,13 +38,41 @@ Reset to branch 0.
 - [`Template-SPM2001-Journaling-Images`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-SPM2001-Journaling-Images/)
 - [`Template-UkraineHistorySimulator-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-UkraineHistorySimulator-Other/)
 - [`WacOS-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/WacOS-Other/)
+- [`Template-Documentation-Markdown-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Documentation-Markdown-Other/)
+- [`Template-Documentation-RDoc-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Documentation-RDoc-Other/)
+- [`Template-Documentation-ReStructuredText-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Documentation-ReStructuredText-Other/)
+- [`Template-Documentation-Pod-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Documentation-Pod-Other/)
+- [`Template-Ruby-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Ruby-Other/)
+- [`Template-PDNet-Channel`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-PDNet-Channel/)
+- [`Template-ModernSmurfsVillage`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-ModernSmurfsVillage/)
+- [`Template-MotorWorld-CarFactory`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-MotorWorld-CarFactory/)
+- [`Template-ClashofClans`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-ClashofClans/)
+- [`Template-BoomBeach`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-BoomBeach/)
+- [`Template-TinyTower`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-TinyTower/)
+- [`Template-BitCity`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-BitCity/)
+- [`Template-DiscoZoo`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-DiscoZoo/)
+- [`Template-LegoTower`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-LegoTower/)
+- [`Template-TinyDeathStar`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-TinyDeathStar/)
+- [`Template-Python-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Python-Other/)
+- [`Template-D-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-D-Other/)
+- [`Template-Perl-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Perl-Other/)
+- [`Template-C-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-C-Other/)
+- [`Template-C-Plus-Plus-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-C-Plus-Plus-Other/)
+- [`Template-JavaScript-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-JavaScript-Other/)
+- [`Template-TypeScript-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-TypeScript-Other/)
+- [`Template-Java-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Java-Other/)
+- [`Template-Gosu-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Gosu-Other/)
+- [`Template-Red-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Red-Other/)
+- [`Template-Rust-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Rust-Other/)
+- [`Template-Assembly-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Assembly-Other/)
+- [`Template-TeX-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-TeX-Other/)
 
 ***
 
 ## File info
 
-- **File version:** `4 (2024, Sunday, August 18th at 02:43 pm PST)`
+- **File version:** `5 (2024, Wednesday, August 21st at 04:50 pm PST)`
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **Line count (including blank lines and compiler line):** `51`
+- **Line count (including blank lines and compiler line):** `79`
 
 ***
