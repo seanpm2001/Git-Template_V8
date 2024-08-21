@@ -111,11 +111,11 @@
 *.wiki linguist-documentation=false
 *.wiki linguist-language=WikiText
 # BibTeX
-*.bib linguist-detectable=false
+*.bib linguist-detectable=true
 *.bib linguist-documentation=false
 *.bib linguist-language=BibTeX
 # TeX
-*.tex linguist-detectable=false
+*.tex linguist-detectable=true
 *.tex linguist-documentation=false
 *.tex linguist-language=TeX
 # Desktop entry
@@ -161,10 +161,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Wednesday, August 21st at 04:28 pm PST)
+# Line count (including blank lines and compiler line): 174
+
 # End of script
