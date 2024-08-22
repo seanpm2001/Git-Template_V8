@@ -32,6 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# C# source file
+*.cs linguist-detectable=true
+*.cs linguist-documentation=false
+*.cs linguist-language=C#
+*.csx linguist-detectable=true
+*.csx linguist-documentation=false
+*.csx linguist-language=C#
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +168,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Thursday, August 22nd at 03:45 pm PST)
+# Line count (including blank lines and compiler line): 181
+
 # End of script
