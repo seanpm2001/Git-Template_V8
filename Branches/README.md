@@ -1,7 +1,7 @@
 
 ***
 
-# Branches (50)
+# Branches (64)
 
 Jump on over to another branch of this repository.
 
@@ -15,7 +15,7 @@ Reset to branch 0.
 
 > [`main`](https://github.com/seanpm2001/Git-Template_V8/tree/main/)
 
-## Others (49)
+## Others (63)
 
 - [`Template-AI2001`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AI2001/)
 - [`Template-Candroid`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Candroid/)
@@ -66,13 +66,27 @@ Reset to branch 0.
 - [`Template-Rust-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Rust-Other/)
 - [`Template-Assembly-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Assembly-Other/)
 - [`Template-TeX-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-TeX-Other/)
+- [`Template-Q-Sharp-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Q-Sharp-Other/)
+- [`Template-F-Sharp-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-F-Sharp-Other/)
+- [`Template-C-Sharp-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-C-Sharp-Other/)
+- [`Template-YAML-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-YAML-Other/)
+- [`Template-SQL-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-SQL-Other/)
+- [`Template-JSON-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-JSON-Other/)
+- [`Template-Svelte-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Svelte-Other/)
+- [`Template-WebAssembly-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-WebAssembly-Other/)
+- [`Template-Fortran-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Fortran-Other/)
+- [`Template-CSS-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-CSS-Other/)
+- [`Template-XML-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-XML-Other/)
+- [`Template-MoonScript-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-MoonScript-Other/)
+- [`Template-Lua-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Lua-Other/)
+- [`Template-Julia-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Julia-Other/)
 
 ***
 
 ## File info
 
-- **File version:** `5 (2024, Wednesday, August 21st at 04:50 pm PST)`
+- **File version:** `6 (2024, Thursday, August 22nd at 08:03 pm PST)`
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **Line count (including blank lines and compiler line):** `79`
+- **Line count (including blank lines and compiler line):** `93`
 
 ***
