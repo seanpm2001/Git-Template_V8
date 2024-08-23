@@ -1,7 +1,7 @@
 
 ***
 
-# Branches (64)
+# Branches (75)
 
 Jump on over to another branch of this repository.
 
@@ -15,7 +15,7 @@ Reset to branch 0.
 
 > [`main`](https://github.com/seanpm2001/Git-Template_V8/tree/main/)
 
-## Others (63)
+## Others (74)
 
 - [`Template-AI2001`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AI2001/)
 - [`Template-Candroid`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Candroid/)
@@ -80,13 +80,28 @@ Reset to branch 0.
 - [`Template-MoonScript-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-MoonScript-Other/)
 - [`Template-Lua-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Lua-Other/)
 - [`Template-Julia-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Julia-Other/)
+- [`Template-Nim-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Nim-Other/)
+- [`Template-R-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-R-Other/)
+- [`Template-Ada-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Ada-Other/)
+- [`Template-Vala-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Vala-Other/)
+- [`Template-Genie-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Genie-Other/)
+- [`Template-Kotlin-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Kotlin-Other/)
+- [`Template-VBScript-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-VBScript-Other/)
+- [`Template-Swift-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Swift-Other/)
+- [`Template-V-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-V-Other/)
+- [`Template-AdVenture-Communist`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AdVenture-Communist/)
+- [`Template-AdVenture-Capitalist`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AdVenture-Capitalist/)
 
 ***
 
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
+
 ## File info
 
-- **File version:** `6 (2024, Thursday, August 22nd at 08:03 pm PST)`
+- **File version:** `7 (2024, Friday, August 23rd at 03:56 pm PST)`
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **Line count (including blank lines and compiler line):** `93`
+- **Line count (including blank lines and compiler line):** `108`
+
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
 ***
