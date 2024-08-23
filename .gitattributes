@@ -32,6 +32,16 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Kotlin source file
+*.kt linguist-detectable=true
+*.kt linguist-documentation=false
+*.kt linguist-language=Kotlin
+*.ktm linguist-detectable=true
+*.ktm linguist-documentation=false
+*.ktm linguist-language=Kotlin
+*.kts linguist-detectable=true
+*.kts linguist-documentation=false
+*.kts linguist-language=Kotlin
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +171,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Friday, August 23rd at 03:21 pm PST)
+# Line count (including blank lines and compiler line): 184
+
 # End of script
