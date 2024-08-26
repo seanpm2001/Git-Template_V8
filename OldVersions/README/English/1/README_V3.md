@@ -1,16 +1,9 @@
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
 # Tiny Tower
 
-<!-- ![TinyTower_ChristmasLogo.jpeg](TinyTower_ChristmasLogo.jpeg) !--> <!-- Change this logo upon new seasons or holidays !-->
-
-![TinyTower_ValentinesDay_Logo.png](TinyTower_ValentinesDay_Logo.png) <!-- Change this logo upon new seasons or holidays !-->
-
-<!-- Logo was changed on January 14th 2021 for the upcoming Valentines Day holiday !-->
+![TinyTower_ChristmasLogo.jpeg](TinyTower_ChristmasLogo.jpeg) <!-- Change this logo upon new seasons or holidays !-->
 
 # By:
 
@@ -201,9 +194,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `4 (Thursday, January 14th 2021 at 4:39 pm)`
+File version: `3 (Sunday, November 8th 2020 at 4:27 pm)`
 
-Line count: `0,328`
+Line count: `0,286`
 
 ***
 
@@ -275,51 +268,13 @@ Version 3 (Sunday, November 8th 2020 at 4:27 pm)
 
 > * No other changes in version 3
 
-Version 4 (Thursday, January 14th 2021 at 4:39 pm)
+Version 4 (coming soon)
 
 > Changes:
 
-> * Changed the logo for valentines day
-
-> * Updated the version history section
-
-> * Added an entry for V4
-
-> * Updated the file info section
+> * Coming soon
 
 > * No other changes in version 4
-
-Version 5 (coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 5
-
-Version 6 (coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 6
-
-Version 7 (coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 7
-
-Version 8 (coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 8
 
 ***
 
@@ -328,24 +283,3 @@ Version 8 (coming soon)
 [Back to top](#Top) [Exit](https://github.com)
 
 ***
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3"><img src="https://avatars.githubusercontent.com/u/65933340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sean P. Myrick V19.1.7.2</b></sub></a><br /><a href="https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower/commits?author=seanpm2001" title="Code">💻</a> <a href="https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower/commits?author=seanpm2001" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001" title="Project Management">📆</a> <a href="#security-seanpm2001" title="Security">🛡️</a> <a href="#data-seanpm2001" title="Data">🔣</a> <a href="#content-seanpm2001" title="Content">🖋</a> <a href="#design-seanpm2001" title="Design">🎨</a> <a href="#maintenance-seanpm2001" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower/commits?author=all-contributors" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
