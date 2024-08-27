@@ -32,6 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Elixir source file
+*.ex linguist-detectable=true
+*.ex linguist-documentation=false
+*.ex linguist-language=Elixir
+*.exs linguist-detectable=true
+*.exs linguist-documentation=false
+*.exs linguist-language=Elixir
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +168,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Monday, August 26th at 05:14 pm PST)
+# Line count (including blank lines and compiler line): 181
+
 # End of script
