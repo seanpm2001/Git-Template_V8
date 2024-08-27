@@ -1,7 +1,7 @@
 
 ***
 
-# Branches (75)
+# Branches (90)
 
 Jump on over to another branch of this repository.
 
@@ -15,7 +15,7 @@ Reset to branch 0.
 
 > [`main`](https://github.com/seanpm2001/Git-Template_V8/tree/main/)
 
-## Others (74)
+## Others (89)
 
 - [`Template-AI2001`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AI2001/)
 - [`Template-Candroid`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Candroid/)
@@ -91,6 +91,21 @@ Reset to branch 0.
 - [`Template-V-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-V-Other/)
 - [`Template-AdVenture-Communist`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AdVenture-Communist/)
 - [`Template-AdVenture-Capitalist`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AdVenture-Capitalist/)
+- [`Template-Elixir-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Elixir-Other/)
+- [`Template-Haskell-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Haskell-Other/)
+- [`Template-Dockerfile-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Dockerfile-Other/)
+- [`Template-CMake-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-CMake-Other/)
+- [`Template-Makefile-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Makefile-Other/)
+- [`Template-Cython-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Cython-Other/)
+- [`Template-Diff-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Diff-Other/)
+- [`Template-Objective-C-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Objective-C-Other/)
+- [`Template-Metal-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Metal-Other/)
+- [`Template-STAR-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-STAR-Other/)
+- [`Template-Plain-Text-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Plain-Text-Other/)
+- [`Template-XSLT-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-XSLT-Other/)
+- [`Template-Twig-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Twig-Other/)
+- [`Template-LennyOS-C`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-LennyOS-C/)
+- [`Template-LennyOS-Lua`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-LennyOS-Lua/)
 
 ***
 
@@ -98,9 +113,9 @@ Reset to branch 0.
 
 ## File info
 
-- **File version:** `7 (2024, Friday, August 23rd at 03:56 pm PST)`
+- **File version:** `8 (2024, Monday, August 26th at 05:20 pm PST)`
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **Line count (including blank lines and compiler line):** `108`
+- **Line count (including blank lines and compiler line):** `123`
 
 <!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
