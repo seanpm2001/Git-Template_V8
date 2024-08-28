@@ -1,7 +1,7 @@
 
 ***
 
-# Branches (100)
+# Branches (101)
 
 Jump on over to another branch of this repository.
 
@@ -15,7 +15,7 @@ Reset to branch 0.
 
 > [`main`](https://github.com/seanpm2001/Git-Template_V8/tree/main/)
 
-## Others (99)
+## Others (100)
 
 - [`Template-AI2001`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AI2001/)
 - [`Template-Candroid`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Candroid/)
@@ -116,6 +116,7 @@ Reset to branch 0.
 - [`Template-Crystal-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Crystal-Other/)
 - [`Template-Scala-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Scala-Other/)
 - [`Template-Prolog-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Prolog-Other/)
+- [`Template-Elm-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Elm-Other/)
 
 ***
 
@@ -123,9 +124,9 @@ Reset to branch 0.
 
 ## File info
 
-- **File version:** `9 (2024, Tuesday, August 27th at 07:51 pm PST)`
+- **File version:** `10 (2024, Wednesday, August 28th at 03:04 pm PST)`
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **Line count (including blank lines and compiler line):** `133`
+- **Line count (including blank lines and compiler line):** `134`
 
 <!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
