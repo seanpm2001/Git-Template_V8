@@ -1,13 +1,16 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
-# <projectName>
+# Bit City
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![BitCityicon.jpg](BitCityicon.jpg)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+![NimbleBit_Logo.png](NimbleBit_Logo.png)
 
 ### Top
 
@@ -15,37 +18,23 @@
 
 ***
 
-## Read this article in a different language
-
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-***
-
 # Index
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+[01.0 - Index](#Index)
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+[02.0 - Description](#SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-)
 
-> [00.3 - Index](#Index)
+[03.0 - About](#About)
 
-[01.0 - Description](#RepositoryName)
+[04.0 - Wiki](#Wiki)
 
-[02.0 - About](#About)
+[05.0 - Version history](#Version-history)
 
-[03.0 - Wiki](#Wiki)
+[06.0 - Contributers](#Contributers)
 
-[04.0 - Version history](#Version-history)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - Sponsor info](#Sponsor-info)
-
-[07.0 - Contributers](#Contributers)
+[07.0 - Contributing](#Contributing)
 
 [08.0 - Issues](#Issues)
 
@@ -59,80 +48,60 @@ Translations in languages other than English are machine translated and are not 
 
 [09.0 - Resources](#Resources)
 
-[10.0 - Contributing](#Contributing)
+[10.0 - About README](#About-README)
 
-[11.0 - About README](#About-README)
+[11.0 - README Version history](#README-version-history)
 
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
+[12.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
-# <repoName>
-<repo_description>
+# SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-
+ The module for my life story project that contains my Bit City Gameplay images.
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-/wiki)
 
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+See above. This repository hosts all weekly Bit City session pictures. I currently play the [Android version](https://play.google.com/store/apps/details?id=com.nimblebit.bitcity&hl=en&gl=US) there is a version available for iOS. It is listed below
 
-***
+These weekly pictures are to be used for progress monitoring, but can also be used as stock images.
 
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+I started playing Bit City in mid 2020 during my NimbleBit fan phase. I continue to play on a weekly basis. I am doing extra and designing the city, instead of just trying to reach requirements.
 
 ***
 
 ## Version history
 
-**Version history currently unavailable**
+Unavailable
 
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+[More versions coming soon](https://www.example.com)
 
 ***
 
 ## Contributers
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 156 commits (As of Tuesday, November 10th 2020 at 3:06 pm)
 
 > * 2. No other contributers.
+
+***
+
+## Contributing
+
+Contributing is not allowed for this project, as it is a personal project.
+
+[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
 
 ***
 
@@ -140,59 +109,19 @@ Currently, I am the only contributer. Contributing is allowed, as long as you fo
 
 ### Current issues
 
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+None at the moment
 
 ### Past issues
 
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+None at the moment
 
 ### Past pull requests
 
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+None at the moment
 
 ### Active pull requests
 
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+None at the moment
 
 ***
 
@@ -200,19 +129,25 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file](LANG.rs)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Bit City on the Apple App store)](https://apps.apple.com/us/app/bit-city/id914343148)
+
+[Download an APK of Bit City using APKPure](https://apkpure.com/bit-city-build-a-pocket-sized-tiny-town/com.nimblebit.bitcity)
+
+[Wikipedia article on Bit City](https://en.wikipedia.org/wiki/Bit_City)
+
+[Bit City Wikia Fandom](https://bit-city.fandom.com/wiki/Bit_City_Wiki)
+
+[NimbleBit website](http://nimblebit.com/)
+
+### Images
+
+[Bit City app icon (jpg)](BitCityicon.jpg)
+
+[NimbleBit Logo (png)](NimbleBit_Logo.png)
 
 No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
 
 ***
 
@@ -220,15 +155,15 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+File version: `2 (Tuesday, November 10th 2020 at 3:06 pm)`
 
-Line count: `0,296`
+Line count: `0,232`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+Version 1 (Saturday, September 12th 2020 at 6:20 pm)
 
 > Changes:
 
@@ -244,14 +179,6 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * Added the version history section
 
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
 > * Added the contributors section
 
 > * Added the contributing section
@@ -260,29 +187,43 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * Added the README version history section
 
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Tuesday, November 10th 2020 at 3:06 pm)
+
+> Changes:
+
+> * Updated the about section
+
+> * Added the resources section
+
+> * Added release notes for v2
+
+> * Added template entries for v3 and v4
+
+> * Updated the file info section
+
+> * Updated the index
+
+> * Updated the contributers section
+
+> * No other changes in version 2
+
+Version 3 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
@@ -290,6 +231,25 @@ Version 2 (Coming soon)
 
 [Back to top](#Top) [Exit](https://github.com)
 
-### EOF
-
 ***
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3"><img src="https://avatars.githubusercontent.com/u/65933340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sean P. Myrick V19.1.7.2</b></sub></a><br /><a href="https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-/commits?author=seanpm2001" title="Code">💻</a> <a href="https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-/commits?author=seanpm2001" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001" title="Project Management">📆</a> <a href="#security-seanpm2001" title="Security">🛡️</a> <a href="#data-seanpm2001" title="Data">🔣</a> <a href="#content-seanpm2001" title="Content">🖋</a> <a href="#design-seanpm2001" title="Design">🎨</a> <a href="#maintenance-seanpm2001" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-/commits?author=all-contributors" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
