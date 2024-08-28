@@ -1,7 +1,7 @@
 
 ***
 
-# Branches (90)
+# Branches (100)
 
 Jump on over to another branch of this repository.
 
@@ -15,7 +15,7 @@ Reset to branch 0.
 
 > [`main`](https://github.com/seanpm2001/Git-Template_V8/tree/main/)
 
-## Others (89)
+## Others (99)
 
 - [`Template-AI2001`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-AI2001/)
 - [`Template-Candroid`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Candroid/)
@@ -106,6 +106,16 @@ Reset to branch 0.
 - [`Template-Twig-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Twig-Other/)
 - [`Template-LennyOS-C`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-LennyOS-C/)
 - [`Template-LennyOS-Lua`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-LennyOS-Lua/)
+- [`Template-Nix-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Nix-Other/)
+- [`Template-Shell-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Shell-Other/)
+- [`Template-INI-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-INI-Other/)
+- [`Template-Scheme-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Scheme-Other/)
+- [`Template-BASIC-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-BASIC-Other/)
+- [`Template-HTML-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-HTML-Other/)
+- [`Template-Less-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Less-Other/)
+- [`Template-Crystal-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Crystal-Other/)
+- [`Template-Scala-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Scala-Other/)
+- [`Template-Prolog-Other`](https://github.com/seanpm2001/Git-Template_V8/tree/Template-Prolog-Other/)
 
 ***
 
@@ -113,9 +123,9 @@ Reset to branch 0.
 
 ## File info
 
-- **File version:** `8 (2024, Monday, August 26th at 05:20 pm PST)`
+- **File version:** `9 (2024, Tuesday, August 27th at 07:51 pm PST)`
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **Line count (including blank lines and compiler line):** `123`
+- **Line count (including blank lines and compiler line):** `133`
 
 <!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
